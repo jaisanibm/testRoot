@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "V6CS5NAT5S.com.shellafrica.fidelite.qa",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
